@@ -9,5 +9,5 @@ This project analyzes restaurant data to gain insights such as average costs and
 
 ## Setup
 1. Clone the repository:
-   git clone [repository](git clone https://github.com/poonampawar13/restaurant-analysis.git)
+   (git clone https://github.com/poonampawar13/restaurant-analysis.git)
 
