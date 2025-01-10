@@ -9,4 +9,4 @@ This project analyzes restaurant data to gain insights such as average costs and
 
 ## Setup
 1. Clone the repository:
-   git clone <repository-gh repo clone poonampawar13/restaurant-analysis>
+   git clone <[repository](gh repo clone poonampawar13/restaurant-analysis)>
